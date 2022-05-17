@@ -38,7 +38,7 @@ img{
     -webkit-appearance: none;
     height: 40px;
     width: 40px;
-    background: url("slider-icon.png"), rgba(255, 255, 255, 0.3);
+    background: url("https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fbr1KiY%2FbtrCoWMToCQ%2Fi3272xVdjKdrP8UbosqYvK%2Fimg.png"), rgba(255, 255, 255, 0.3);
     border: 3px solid #ffffff;
     border-radius: 50%;
     background-size: contain;
